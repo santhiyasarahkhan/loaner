@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="number_involved" label="Number Involved" language="en" table="x_cdltd_loaner_req_loaner_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>number_involved</element>
+            <help/>
+            <hint/>
+            <label>Number Involved</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner_request</name>
+            <plural>Number Involved</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-10 14:24:54</sys_created_on>
+            <sys_id>955b87101d7629107f44f7407f211ed0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Number Involved</sys_name>
+            <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">6bc13b4e1de221107f44f7407f211e88</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">6bc13b4e1de221107f44f7407f211e88</sys_scope>
+            <sys_update_name>sys_documentation_x_cdltd_loaner_req_loaner_request_number_involved_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-10 14:24:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
